@@ -13,3 +13,5 @@ Hihh Poly to Low Poly  - Retopology  / Baking
 
 <b> <center>  Uv Map </b> </center> </br>
 ![](Pictures/pillar3.png)
+
+Autor: Krzyszotf Kaszuba
