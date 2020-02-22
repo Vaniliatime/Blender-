@@ -8,7 +8,7 @@ Hihh Poly to Low Poly  - Retopology  / Baking
 
 
 <b> <center>  Result </b> </center> </br>
-![](Pictures/pilla2.png)
+![](Pictures/pillar2.png)
 
 
 <b> <center>  Uv Map </b> </center> </br>
